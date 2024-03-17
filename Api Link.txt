@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=germany&appid=7d3c9f4699ded7fa5d25cf5612c67cea
